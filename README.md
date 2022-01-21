@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nunocostaC
+- 👀 I’m interested in IaC 
+- 🌱 I’m currently learning AWS and SDLC
+- 💞️ I’m looking to collaborate on everything related to infra :=)
+- 📫 How to reach me: nuno.costa@wolterskluwer.com
